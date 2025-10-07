@@ -18,5 +18,22 @@ I'm **slowly building my GitHub** to showcase my projects, document my **trouble
 
 If you'd like to connect or learn more about my work, feel free to reach out through the links below!
 
+## ⚙️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🛠️ Editors & IDEs
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🖥️ Operating Systems
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🌐 Browsers & Services
+![Brave](https://img.shields.io/badge/Brave-FE5421?style=for-the-badge&logo=brave&logoColor=white)
+![Plex](https://img.shields.io/badge/Plex-E5A00D?style=for-the-badge&logo=plex&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-1D1D1F?style=for-the-badge&logo=tailscale&logoColor=white)
 
 
