@@ -5,7 +5,7 @@
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alfredo.ochoa1228@protonmail.com)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
 
-##🧠About me
+## 🧠About me
 I'm a 25-year-old tech enthusiast with a **B.B.A. in Cybersecurity**, a **minor in Cyberforensics**, and a **Master’s in Management of Technology** from the **University of Texas at San Antonio**.  
 
 I recently completed an internship at **Apple** as an **Engineering Program Manager**, where I supported cross-functional teams in product development and process optimization. I'm currently **open to new opportunities** where I can combine my technical background, management experience, and passion for innovation to help build meaningful technology.  
